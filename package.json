@@ -1,0 +1,22 @@
+{
+  "name": "node-driver-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamtylerd/node-driver-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamtylerd/node-driver-test/issues"
+  },
+  "homepage": "https://github.com/iamtylerd/node-driver-test#readme",
+  "dependencies": {
+    "mongodb": "^2.2.9"
+  }
+}
